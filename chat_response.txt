@@ -1,0 +1,30 @@
+=== Gemini Embedding Pipeline Responses ===
+
+Question: List all mandatory documents bidders must submit.
+Answer: Based on the provided document, the following documents are mandatory and must be submitted with the bid:
+
+*   Attachment 1 - Bid Proposal (ADM-1412)
+*   Attachment 2 - Bid/Bidder Certification Sheet
+*   Bidder Declaration (GSPD 05-105)
+*   Bidder’s Bond (ADM-2010)
+*   Disabled Veteran Business Enterprise Declarations (STD 843)
+*   Quotes from DVBE Subcontractors (on DVBE’s letterhead)
+*   Non-Collusion Declaration for Public Works
+*   California Civil Rights Laws Certification (DOT ADM-0076)
+*   Darfur Contracting Act Certification
+*   Copy of valid and current registration with the Department of Industrial Relations (DIR).
+
+Question: What are the security requirements and site access protocols for the project IFPQ # 01A6494?
+Answer: I am sorry, but the document provided does not contain information about security requirements and site access protocols for project IFPQ # 01A6494.
+
+Question: What permits or approvals are necessary for this project?
+Answer: Contractors for project IFPQ # 01A6494 are responsible for determining whether they need a Motor Carrier Permit (MCP) from the DMV. Subcontractors must have the proper licenses, permits, and/or certifications to do their part of the job. Work done on state-owned properties is subject to inspection by local agency code enforcement, even though building permits are not needed. Contractors must also follow all Federal, State, and Local laws, regulations, and codes, including rules for volatile organic compound emissions and hazardous waste or materials.
+
+Question: How have you addressed safety challenges specific to public works projects in your past experience?
+Answer: I have the following information regarding safety challenges on public works projects:
+
+*   Contractor is responsible for the safety of the public per Standard Specifications, Section 7-1.04, Public Safety.
+*   Contractor shall take all necessary precautions to prevent injury or hazard to Caltrans employee(s) and/or to the general public.
+*   Contractor assumes all risks of the consequences of exposure of Contractor’s employees, agents, Subcontractors, Subcontractors’ employees, to environmental health hazards.
+*   Caltrans Contract Manager may direct attention to the existence of a hazard and the necessary warning devices shall be immediately furnished and installed and protective measures taken by Contractor at its sole expense. Should Caltrans Contract Manager point out the inadequacy of warning devices and protective measures
+*   Contractor shall conduct its operations as to avoid damage to the property of Caltrans or to adjacent property.
